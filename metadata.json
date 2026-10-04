@@ -1,0 +1,6 @@
+{
+  "name": "GestureReader",
+  "description": "无障碍阅读辅助工具：利用前置摄像头进行本地头部追踪与手势识别，自定义灵敏度并支持悬浮窗与无障碍手势模拟。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

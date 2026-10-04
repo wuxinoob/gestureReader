@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestureReader</string>
+    <string name="accessibility_service_label">GestureReader 无障碍辅助翻页服务</string>
+    <string name="accessibility_service_description">通过头部动作（点头、转头、歪头、眨眼、张嘴）与手势控制屏幕滑动、点击与翻页，帮助阅读障碍及双手不便的用户顺畅阅读。</string>
+</resources>

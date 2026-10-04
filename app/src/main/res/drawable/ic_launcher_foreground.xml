@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Book Base in Center Safe Zone -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,44 C34,40 40,38 52,40 C53,40 53.5,41 54,42 C54.5,41 55,40 56,40 C68,38 74,40 74,44 L74,68 C74,70 68,69 56,71 C54.5,71.2 53.5,71.2 52,71 C40,69 34,70 34,68 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,43 C42,41 38,43 37,45 L37,66 C40,64.5 45,64 52,65.5 Z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M56,43 C66,41 70,43 71,45 L71,66 C68,64.5 63,64 56,65.5 Z" />
+    <!-- Dynamic Motion Wave / Hand & Head Gesture Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M28,54 C26,42 36,30 54,30 C72,30 82,42 80,54" />
+    <!-- Motion Arrow heads -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,46 L30,46 L27,53 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M84,46 L78,46 L81,53 Z" />
+    <!-- Center Vision / Focus Dot -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,50m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+</vector>
